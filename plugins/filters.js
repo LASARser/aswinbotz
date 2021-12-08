@@ -1,4 +1,4 @@
-/* Copyright (C) 2020 farhan-dqz.
+/* Copyright (C) 2020 aswin-dqz.
 re codded by Lasarsir
 aswinbotz
 */
